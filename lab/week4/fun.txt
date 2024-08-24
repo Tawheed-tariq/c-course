@@ -1,0 +1,2 @@
+fnc overloading default 
+demonstrate print fnc wiht class
